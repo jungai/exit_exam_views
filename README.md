@@ -1,29 +1,11 @@
-# views
+# this is views for exit_exam
 
-## Project setup
+## Run 
+1. install
 ```
-yarn install
+yarn OR npm install 
 ```
-
-### Compiles and hot-reloads for development
+2. run views
 ```
-yarn run serve
+yarn serve OR npm run serve
 ```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
